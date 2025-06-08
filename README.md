@@ -52,9 +52,3 @@ This project highlights how machine learning can:
 It’s a small but meaningful step toward precision medicine.
 
 ---
-
-## How to Use
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/breast-cancer-prediction.git
