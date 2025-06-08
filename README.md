@@ -13,7 +13,7 @@ By combining medical data with predictive models, this project aims to assist in
 
  **Goal**: Predict patient outcomes using clinical features such as stage, treatment history, and lymph node involvement.
 
-🛠 **Tech Stack**:  
+**Tech Stack**:  
 Python · Pandas · Scikit-learn · Matplotlib · Seaborn · SMOTE · Random Forest · Logistic Regression
 
  **Key Results**:
